@@ -60,7 +60,7 @@ To write a strategy, first download the content of this repository:
 * download the content as a compressed file to a location of your choosing on your computer by clicking "Download ZIP",
 * unpack the zip file.
 
-Open the file ```student_interface.ipynb```. The first cell in this Jupyter Notebook contains the skeleton of a function. Complete this function to define your strategy. By running the second cell, you can play against your strategy to tet how it performs. Running the third cell will assess your strategy (see the assessment section below).
+Open the file ```student_interface.ipynb```. The first cell in this Jupyter Notebook contains the skeleton of a function. Complete this function to define your strategy. By running the second cell, you can play against your strategy to test how it performs. Running the third cell will assess your strategy (see the assessment section below).
 
 ### Details on Strategies
 
